@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-连接潍柴toolsnet数据库，解析保存螺栓拧紧过程数据的blob字段
+连接toolsnet数据库，解析保存螺栓拧紧过程数据的blob字段
 """
 
 #from StatusValue.DataBaseConnectVars import *
